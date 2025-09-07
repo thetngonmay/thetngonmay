@@ -55,3 +55,5 @@ My focus is on **clean architecture**, **scalable codebases**, and **seamless us
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thetngonmay&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thetngonmay&layout=compact)
+
+Thanks for visiting my profile! Let’s build something awesome with Flutter 🚀
